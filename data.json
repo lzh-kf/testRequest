@@ -1,0 +1,11 @@
+{
+  code:0,
+  data:{
+    info:{
+      name:'lh',
+      balance:'100',
+      city:'ShenZhen',
+      age:'27'
+    }
+  }
+}
